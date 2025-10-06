@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fff5a8;
+  font-size: 1rem;
+}
+h1,
+h2,
+h3,
+p,
+a {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+}
+h1 {
+  font-family: "Moul", serif;
+  color: white;
+}
+header {
+  background-image: url(images-media/hero-image.png);
+  width: 100%;
+  min-height: 100vh;
+}
+nav {
+  background-color: #fff5a8;
+}
+footer {
+  background: #2e6118;
+}
