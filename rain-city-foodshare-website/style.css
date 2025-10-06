@@ -15,6 +15,12 @@ h1 {
   font-family: "Moul", serif;
   color: white;
 }
+.cta-button {
+  text-transform: uppercase;
+  background-color: chocolate;
+  border-color: #fff5a8;
+  border-radius: 6.498px;
+}
 header {
   background-image: url(images-media/hero-image.png);
   width: 100%;
@@ -25,4 +31,7 @@ nav {
 }
 footer {
   background: #2e6118;
+}
+footer a {
+  color: white;
 }
